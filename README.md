@@ -6,5 +6,11 @@ A brief info about me:
  
 Written in 02/02/2021
 
+<center>
+<img src= 'https://miro.medium.com/max/1350/1*bOokbEeXpF1Z4gd_BpL93w.jpeg' width=50%/>
+</center>
+
+
+
 <!--
 **vilcagamarracf/vilcagamarracf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
