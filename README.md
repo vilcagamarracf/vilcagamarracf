@@ -3,6 +3,6 @@
 ### Hi there 👋
 A brief info about me:
 
-I am Cesar Vilca, a 24 years old guy with a bachelor in Agricultural Engineering from La Molina University (UNALM). I am currently developing my programming skills in order to finish my thesis about using machine learning algorithms and satellite imagery, related to the crops monitoring field.
+I am Cesar Vilca, a bachelor in Agricultural Engineering from La Molina University (UNALM). I am currently developing my programming skills in order to finish my thesis about using machine learning algorithms and satellite imagery, related to the crops monitoring field.
 
 Improving myself everyday! 🚀
