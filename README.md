@@ -1,4 +1,4 @@
-[<img align="left" width="40%" src="https://miro.medium.com/max/1350/1*bOokbEeXpF1Z4gd_BpL93w.jpeg">](https://github.com/vilcagamarracf "Github Account") 
+[<img align="left" width="50%" src="https://miro.medium.com/max/1350/1*bOokbEeXpF1Z4gd_BpL93w.jpeg">](https://github.com/vilcagamarracf "Github Account") 
 
 #### Hi there 👋
 A brief info about me:
