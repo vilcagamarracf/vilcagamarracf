@@ -5,4 +5,7 @@ A brief info about me:
 
 I am Cesar Vilca, a bachelor in Agricultural Engineering from La Molina University (UNALM). I am currently developing my programming skills in order to finish my thesis about using machine learning algorithms and satellite imagery, related to the crops monitoring field.
 
+Here is my [CV](https://github.com/vilcagamarracf/Personal_CV/blob/main/Personal_CV.pdf).
+
 Improving myself everyday! 🚀
+
