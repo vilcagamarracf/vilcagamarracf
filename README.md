@@ -9,9 +9,9 @@
 #### Hi there 👋
 A brief info about me:
 
-I am Cesar Vilca, from Peru. I am passionate about research and remote sensing technologies, particularly in their application to agricultural crop monitoring. 
+I am Cesar Vilca, from Peru and I'm really passionate about research and remote sensing technologies, particularly in their application to agricultural crop monitoring. 
 
-I finished a bachelor in Agricultural Engineering from La Molina University (UNALM) in 2020 and I am eager to contribute my knowledge and skills to projects in this field and collaborate with professionals who share my enthusiasm for innovation in agriculture. 
+I finished a bachelor in Agricultural Engineering from La Molina University (UNALM) in 2020 and I'm eager to contribute my knowledge and skills to projects in this field and collaborate with professionals who share my enthusiasm for innovation in agriculture. 
 
 Some of my skills are mentioned below:
 - Python
