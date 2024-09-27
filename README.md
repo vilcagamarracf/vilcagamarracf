@@ -15,7 +15,7 @@ I finished a bachelor in Agricultural Engineering from La Molina University (UNA
 
 Some of my skills are mentioned below:
 - Python
-  - Reading and processing data from sheetfiles (.csv and .xlsx files) in order to make appealing visualizations, perfect to research publications requeriments.
+  - Reading and processing data from sheetfiles (.csv and .xlsx files) in order to make appealing visualizations, perfect for research publications.
   - Google Earth Engine Python API to process satellite data and creating Applications.
   - Processing raster and vector files: reading, processing and extracting statistics.
 - QGIS software
