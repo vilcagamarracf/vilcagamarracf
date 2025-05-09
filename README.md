@@ -1,6 +1,12 @@
 <p>
 <pre align="center">
-<strong>Cesar F. Vilca Gamarra</strong> / <a href="https://vilcagamarracf.github.io/">Website</a> / <a href="https://twitter.com/vilcagamarracf">Twitter</a> / <a href="https://github.com/vilcagamarracf">GitHub</a> / <a href="https://www.linkedin.com/in/cesarvilca/">Linkedin</a> / <a href="https://github.com/vilcagamarracf/Personal_CV/blob/main/CV_CESARVILCA.pdf">CV</>
+  <strong>Cesar F. Vilca Gamarra</strong> 
+  / <a href="https://vilcagamarracf.github.io/">Website</a> 
+  / <a href="https://twitter.com/vilcagamarracf">Twitter</a> 
+  / <a href="https://github.com/vilcagamarracf">GitHub</a> 
+  / <a href="https://www.linkedin.com/in/cesarvilca/">Linkedin</a> 
+  / <a href="https://orcid.org/0000-0003-4748-6549">ORCID</>
+  / <a href="https://github.com/vilcagamarracf/Personal_CV/blob/main/CV_CESARVILCA.pdf">CV</>
 </pre>        
 </p>
 
